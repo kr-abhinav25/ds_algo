@@ -1,7 +1,7 @@
 .vscode/
 *.dsYM/
 .DS_Store
-
+main
 # General
 .DS_Store
 .AppleDouble

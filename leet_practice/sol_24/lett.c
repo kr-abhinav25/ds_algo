@@ -20,7 +20,7 @@ typedef struct heap
 
 // Linked List functions: 
 struct ListNode* newNode(){
-  struct ListNode* node = (struct ListNode*)malloc(sizeof(struct ListNode));
+  struct ListNode* node = (struct ListNode*)malloc(sizeof(struct ListNode*));
   return node;
 }
 
